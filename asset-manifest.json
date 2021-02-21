@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/clone-pinterest/static/css/main.dc7d4eed.chunk.css",
+    "main.js": "/clone-pinterest/static/js/main.eb11f460.chunk.js",
+    "main.js.map": "/clone-pinterest/static/js/main.eb11f460.chunk.js.map",
+    "runtime-main.js": "/clone-pinterest/static/js/runtime-main.9f18368a.js",
+    "runtime-main.js.map": "/clone-pinterest/static/js/runtime-main.9f18368a.js.map",
+    "static/js/2.44675843.chunk.js": "/clone-pinterest/static/js/2.44675843.chunk.js",
+    "static/js/2.44675843.chunk.js.map": "/clone-pinterest/static/js/2.44675843.chunk.js.map",
+    "static/js/3.2b1bef5e.chunk.js": "/clone-pinterest/static/js/3.2b1bef5e.chunk.js",
+    "static/js/3.2b1bef5e.chunk.js.map": "/clone-pinterest/static/js/3.2b1bef5e.chunk.js.map",
+    "index.html": "/clone-pinterest/index.html",
+    "static/css/main.dc7d4eed.chunk.css.map": "/clone-pinterest/static/css/main.dc7d4eed.chunk.css.map",
+    "static/js/2.44675843.chunk.js.LICENSE.txt": "/clone-pinterest/static/js/2.44675843.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f18368a.js",
+    "static/js/2.44675843.chunk.js",
+    "static/css/main.dc7d4eed.chunk.css",
+    "static/js/main.eb11f460.chunk.js"
+  ]
+}
